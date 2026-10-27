@@ -24,13 +24,13 @@
 ### ❯ cat stack.txt
 
 <p>
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=FF6500">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=gnometerminal&logoColor=FF6500">
   <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FF6500">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=FF6500">
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=FF6500">
   <img alt="n8n" src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=FF6500">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=FF6500">
-  <img alt="Impresión 3D" src="https://img.shields.io/badge/Impresi%C3%B3n%203D-111111?style=flat-square&logo=prusa3d&logoColor=FF6500">
+  <img alt="Impresión 3D" src="https://img.shields.io/badge/Impresi%C3%B3n%203D-111111?style=flat-square&logo=printables&logoColor=FF6500">
 </p>
 
 <sub>La imagen de arriba se genera desde <a href="assets/src">assets/src</a> (HTML + el logo de AS convertido a ASCII).</sub>
