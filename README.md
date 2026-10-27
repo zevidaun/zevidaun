@@ -17,7 +17,7 @@
 
 | | Proyecto | Qué es |
 |---|---|---|
-| 🟧 | **[Z. Optimizer](https://github.com/zevidaun/Z.-Optimizier)** | Optimizador de Windows 11 sin humo: código abierto, sin red y 100 % reversible |
+| 🟧 | **[Z. Optimizer](https://github.com/zevidaun/Z.-Optimizer)** | Optimizador de Windows 11 sin humo: código abierto, sin red y 100 % reversible |
 | 🟧 | **[AS3D](https://assevilla.es/as3d/)** | Gestión para negocios de impresión 3D |
 | 🟧 | **AS Agentes** | Agentes de IA para atención al cliente, automatizaciones, CRM e informes |
 
