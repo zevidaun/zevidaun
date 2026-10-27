@@ -18,6 +18,7 @@
 | | Proyecto | Qué es |
 |---|---|---|
 | 🟧 | **[Z. Optimizer](https://github.com/zevidaun/Z.-Optimizer)** | Optimizador de Windows 11 sin humo: código abierto, sin red y 100 % reversible |
+| 🟧 | **[TranslucentBar](https://github.com/zevidaun/TranslucentBar)** | Barra de tareas de Windows 11 translúcida o glass: ~1 MB de memoria y 0 % CPU en reposo |
 | 🟧 | **[AS3D](https://assevilla.es/as3d/)** | Gestión para negocios de impresión 3D |
 | 🟧 | **AS Agentes** | Agentes de IA para atención al cliente, automatizaciones, CRM e informes |
 
